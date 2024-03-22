@@ -5,6 +5,8 @@ Prerequisites
 - Python 3.x
 - Yolov8
 - OpenCV
+- Pillow (for Jupyter experiment)
+- Matplotlib (for Jupyter experiment)
 
 Installation
 ```
