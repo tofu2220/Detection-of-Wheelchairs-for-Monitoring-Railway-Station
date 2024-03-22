@@ -1,0 +1,6 @@
+path: /home/tofu/Documents/codium/usth/b3/FinalProject/dataset
+train: images
+val: images
+
+names:
+  0: wheelchair
