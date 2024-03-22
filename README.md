@@ -2,7 +2,6 @@
 
 ## Directory Structure
 
-```
 .
 |-- dataset/
 |   |-- images/
@@ -18,7 +17,6 @@
     |-- Demo2.mp4
     |-- Demo3.mp4
     `-- ...
-```
 
 ## Installation and Usage
 Prerequisites
